@@ -1,0 +1,18 @@
+C:\Users\Sahil\source\repos\UserApi\UserApi.Core\bin\Debug\netstandard2.0\UserApi.Core.deps.json
+C:\Users\Sahil\source\repos\UserApi\UserApi.Core\bin\Debug\netstandard2.0\UserApi.Core.dll
+C:\Users\Sahil\source\repos\UserApi\UserApi.Core\obj\Debug\netstandard2.0\UserApi.Core.csprojAssemblyReference.cache
+C:\Users\Sahil\source\repos\UserApi\UserApi.Core\obj\Debug\netstandard2.0\UserApi.Core.AssemblyInfoInputs.cache
+C:\Users\Sahil\source\repos\UserApi\UserApi.Core\obj\Debug\netstandard2.0\UserApi.Core.AssemblyInfo.cs
+C:\Users\Sahil\source\repos\UserApi\UserApi.Core\bin\Debug\netstandard2.0\UserApi.Core.pdb
+C:\Users\Sahil\source\repos\UserApi\UserApi.Core\obj\Debug\netstandard2.0\UserApi.Core.dll
+C:\Users\Sahil\source\repos\UserApi\UserApi.Core\obj\Debug\netstandard2.0\UserApi.Core.pdb
+C:\Users\Sahil\source\repos\UserApi\UserApi.Core\obj\Debug\netstandard2.0\UserApi.Core.csproj.CoreCompileInputs.cache
+F:\C Sharp Project\SahilThakur\UserApi\UserApi.Core\bin\Debug\netstandard2.0\UserApi.Core.deps.json
+F:\C Sharp Project\SahilThakur\UserApi\UserApi.Core\bin\Debug\netstandard2.0\UserApi.Core.dll
+F:\C Sharp Project\SahilThakur\UserApi\UserApi.Core\bin\Debug\netstandard2.0\UserApi.Core.pdb
+F:\C Sharp Project\SahilThakur\UserApi\UserApi.Core\obj\Debug\netstandard2.0\UserApi.Core.csprojAssemblyReference.cache
+F:\C Sharp Project\SahilThakur\UserApi\UserApi.Core\obj\Debug\netstandard2.0\UserApi.Core.AssemblyInfoInputs.cache
+F:\C Sharp Project\SahilThakur\UserApi\UserApi.Core\obj\Debug\netstandard2.0\UserApi.Core.AssemblyInfo.cs
+F:\C Sharp Project\SahilThakur\UserApi\UserApi.Core\obj\Debug\netstandard2.0\UserApi.Core.csproj.CoreCompileInputs.cache
+F:\C Sharp Project\SahilThakur\UserApi\UserApi.Core\obj\Debug\netstandard2.0\UserApi.Core.dll
+F:\C Sharp Project\SahilThakur\UserApi\UserApi.Core\obj\Debug\netstandard2.0\UserApi.Core.pdb

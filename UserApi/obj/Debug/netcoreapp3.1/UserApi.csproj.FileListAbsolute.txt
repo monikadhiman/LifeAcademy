@@ -1,0 +1,190 @@
+C:\Users\Sahil\source\repos\UserApi\UserApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Sahil\source\repos\UserApi\UserApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Sahil\source\repos\UserApi\UserApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Sahil\source\repos\UserApi\UserApi\bin\Debug\netcoreapp3.1\UserApi.exe
+C:\Users\Sahil\source\repos\UserApi\UserApi\obj\Debug\netcoreapp3.1\UserApi.csprojAssemblyReference.cache
+C:\Users\Sahil\source\repos\UserApi\UserApi\obj\Debug\netcoreapp3.1\UserApi.AssemblyInfoInputs.cache
+C:\Users\Sahil\source\repos\UserApi\UserApi\obj\Debug\netcoreapp3.1\UserApi.AssemblyInfo.cs
+C:\Users\Sahil\source\repos\UserApi\UserApi\obj\Debug\netcoreapp3.1\UserApi.RazorTargetAssemblyInfo.cache
+C:\Users\Sahil\source\repos\UserApi\UserApi\obj\Debug\netcoreapp3.1\staticwebassets\UserApi.StaticWebAssets.Manifest.cache
+C:\Users\Sahil\source\repos\UserApi\UserApi\obj\Debug\netcoreapp3.1\staticwebassets\UserApi.StaticWebAssets.xml
+C:\Users\Sahil\source\repos\UserApi\UserApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Sahil\source\repos\UserApi\UserApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Sahil\source\repos\UserApi\UserApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Sahil\source\repos\UserApi\UserApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Sahil\source\repos\UserApi\UserApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Sahil\source\repos\UserApi\UserApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Sahil\source\repos\UserApi\UserApi\obj\Debug\netcoreapp3.1\UserApi.csproj.CopyComplete
+C:\Users\Sahil\source\repos\UserApi\UserApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sahil\source\repos\UserApi\UserApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Sahil\source\repos\UserApi\UserApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Sahil\source\repos\UserApi\UserApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Sahil\source\repos\UserApi\UserApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Sahil\source\repos\UserApi\UserApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sahil\source\repos\UserApi\UserApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sahil\source\repos\UserApi\UserApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sahil\source\repos\UserApi\UserApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Sahil\source\repos\UserApi\UserApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Sahil\source\repos\UserApi\UserApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Sahil\source\repos\UserApi\UserApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Sahil\source\repos\UserApi\UserApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Sahil\source\repos\UserApi\UserApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sahil\source\repos\UserApi\UserApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Sahil\source\repos\UserApi\UserApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Sahil\source\repos\UserApi\UserApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Sahil\source\repos\UserApi\UserApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Sahil\source\repos\UserApi\UserApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Sahil\source\repos\UserApi\UserApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Sahil\source\repos\UserApi\UserApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Sahil\source\repos\UserApi\UserApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Sahil\source\repos\UserApi\UserApi\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Sahil\source\repos\UserApi\UserApi\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Sahil\source\repos\UserApi\UserApi\bin\Debug\netcoreapp3.1\Serilog.dll
+C:\Users\Sahil\source\repos\UserApi\UserApi\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Sahil\source\repos\UserApi\UserApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Sahil\source\repos\UserApi\UserApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Sahil\source\repos\UserApi\UserApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Sahil\source\repos\UserApi\UserApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Sahil\source\repos\UserApi\UserApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Sahil\source\repos\UserApi\UserApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Sahil\source\repos\UserApi\UserApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Sahil\source\repos\UserApi\UserApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Sahil\source\repos\UserApi\UserApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Sahil\source\repos\UserApi\UserApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Sahil\source\repos\UserApi\UserApi\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
+C:\Users\Sahil\source\repos\UserApi\UserApi\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+C:\Users\Sahil\source\repos\UserApi\UserApi\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+C:\Users\Sahil\source\repos\UserApi\UserApi\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+C:\Users\Sahil\source\repos\UserApi\UserApi\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
+C:\Users\Sahil\source\repos\UserApi\UserApi\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+C:\Users\Sahil\source\repos\UserApi\UserApi\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
+C:\Users\Sahil\source\repos\UserApi\UserApi\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+C:\Users\Sahil\source\repos\UserApi\UserApi\bin\Debug\netcoreapp3.1\Serilog.Enrichers.Environment.dll
+C:\Users\Sahil\source\repos\UserApi\UserApi\bin\Debug\netcoreapp3.1\Serilog.Enrichers.Process.dll
+C:\Users\Sahil\source\repos\UserApi\UserApi\bin\Debug\netcoreapp3.1\Serilog.Enrichers.Thread.dll
+C:\Users\Sahil\source\repos\UserApi\UserApi\bin\Debug\netcoreapp3.1\UserApi.deps.json
+C:\Users\Sahil\source\repos\UserApi\UserApi\bin\Debug\netcoreapp3.1\UserApi.runtimeconfig.json
+C:\Users\Sahil\source\repos\UserApi\UserApi\bin\Debug\netcoreapp3.1\UserApi.runtimeconfig.dev.json
+C:\Users\Sahil\source\repos\UserApi\UserApi\bin\Debug\netcoreapp3.1\UserApi.dll
+C:\Users\Sahil\source\repos\UserApi\UserApi\bin\Debug\netcoreapp3.1\UserApi.pdb
+C:\Users\Sahil\source\repos\UserApi\UserApi\bin\Debug\netcoreapp3.1\UserApi.Core.dll
+C:\Users\Sahil\source\repos\UserApi\UserApi\bin\Debug\netcoreapp3.1\UserApi.Data.dll
+C:\Users\Sahil\source\repos\UserApi\UserApi\bin\Debug\netcoreapp3.1\UserApi.Service.dll
+C:\Users\Sahil\source\repos\UserApi\UserApi\bin\Debug\netcoreapp3.1\UserApi.Core.pdb
+C:\Users\Sahil\source\repos\UserApi\UserApi\bin\Debug\netcoreapp3.1\UserApi.Data.pdb
+C:\Users\Sahil\source\repos\UserApi\UserApi\bin\Debug\netcoreapp3.1\UserApi.Service.pdb
+C:\Users\Sahil\source\repos\UserApi\UserApi\obj\Debug\netcoreapp3.1\UserApi.dll
+C:\Users\Sahil\source\repos\UserApi\UserApi\obj\Debug\netcoreapp3.1\UserApi.pdb
+C:\Users\Sahil\source\repos\UserApi\UserApi\obj\Debug\netcoreapp3.1\UserApi.genruntimeconfig.cache
+C:\Users\Sahil\source\repos\UserApi\UserApi\bin\Debug\netcoreapp3.1\Microsoft.Azure.Services.AppAuthentication.dll
+C:\Users\Sahil\source\repos\UserApi\UserApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\Sahil\source\repos\UserApi\UserApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Sahil\source\repos\UserApi\UserApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Sahil\source\repos\UserApi\UserApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Sahil\source\repos\UserApi\UserApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Sahil\source\repos\UserApi\UserApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Sahil\source\repos\UserApi\UserApi\bin\Debug\netcoreapp3.1\Serilog.Sinks.MSSqlServer.dll
+C:\Users\Sahil\source\repos\UserApi\UserApi\bin\Debug\netcoreapp3.1\Serilog.Sinks.PeriodicBatching.dll
+C:\Users\Sahil\source\repos\UserApi\UserApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Sahil\source\repos\UserApi\UserApi\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\Users\Sahil\source\repos\UserApi\UserApi\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\Users\Sahil\source\repos\UserApi\UserApi\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Sahil\source\repos\UserApi\UserApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Sahil\source\repos\UserApi\UserApi\obj\Debug\netcoreapp3.1\UserApi.csproj.CoreCompileInputs.cache
+C:\Users\Sahil\source\repos\UserApi\UserApi\obj\Debug\netcoreapp3.1\UserApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Sahil\source\repos\UserApi\UserApi\obj\Debug\netcoreapp3.1\UserApi.MvcApplicationPartsAssemblyInfo.cache
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\bin\Debug\netcoreapp3.1\appsettings.json
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\bin\Debug\netcoreapp3.1\UserApi.exe
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\bin\Debug\netcoreapp3.1\UserApi.deps.json
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\bin\Debug\netcoreapp3.1\UserApi.runtimeconfig.json
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\bin\Debug\netcoreapp3.1\UserApi.runtimeconfig.dev.json
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\bin\Debug\netcoreapp3.1\UserApi.dll
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\bin\Debug\netcoreapp3.1\UserApi.pdb
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\bin\Debug\netcoreapp3.1\AutoMapper.dll
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\bin\Debug\netcoreapp3.1\MailKit.dll
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\bin\Debug\netcoreapp3.1\Microsoft.Azure.Services.AppAuthentication.dll
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\bin\Debug\netcoreapp3.1\MimeKit.dll
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\bin\Debug\netcoreapp3.1\Serilog.dll
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\bin\Debug\netcoreapp3.1\Serilog.Enrichers.Environment.dll
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\bin\Debug\netcoreapp3.1\Serilog.Enrichers.Process.dll
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\bin\Debug\netcoreapp3.1\Serilog.Enrichers.Thread.dll
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\bin\Debug\netcoreapp3.1\Serilog.Sinks.MSSqlServer.dll
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\bin\Debug\netcoreapp3.1\Serilog.Sinks.PeriodicBatching.dll
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\bin\Debug\netcoreapp3.1\UserApi.Core.dll
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\bin\Debug\netcoreapp3.1\UserApi.Data.dll
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\bin\Debug\netcoreapp3.1\UserApi.Service.dll
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\bin\Debug\netcoreapp3.1\UserApi.Core.pdb
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\bin\Debug\netcoreapp3.1\UserApi.Data.pdb
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\bin\Debug\netcoreapp3.1\UserApi.Service.pdb
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\obj\Debug\netcoreapp3.1\UserApi.csprojAssemblyReference.cache
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\obj\Debug\netcoreapp3.1\UserApi.AssemblyInfoInputs.cache
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\obj\Debug\netcoreapp3.1\UserApi.AssemblyInfo.cs
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\obj\Debug\netcoreapp3.1\UserApi.csproj.CoreCompileInputs.cache
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\obj\Debug\netcoreapp3.1\UserApi.MvcApplicationPartsAssemblyInfo.cs
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\obj\Debug\netcoreapp3.1\UserApi.MvcApplicationPartsAssemblyInfo.cache
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\obj\Debug\netcoreapp3.1\UserApi.RazorTargetAssemblyInfo.cache
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\obj\Debug\netcoreapp3.1\UserApi.csproj.CopyComplete
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\obj\Debug\netcoreapp3.1\staticwebassets\UserApi.StaticWebAssets.Manifest.cache
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\obj\Debug\netcoreapp3.1\staticwebassets\UserApi.StaticWebAssets.xml
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\obj\Debug\netcoreapp3.1\UserApi.dll
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\obj\Debug\netcoreapp3.1\UserApi.pdb
+F:\C Sharp Project\SahilThakur\UserApi\UserApi\obj\Debug\netcoreapp3.1\UserApi.genruntimeconfig.cache

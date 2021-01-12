@@ -1,0 +1,24 @@
+C:\Users\Sahil\source\repos\UserApi\UserApi.Service\bin\Debug\netstandard2.0\UserApi.Service.deps.json
+C:\Users\Sahil\source\repos\UserApi\UserApi.Service\bin\Debug\netstandard2.0\UserApi.Service.dll
+C:\Users\Sahil\source\repos\UserApi\UserApi.Service\obj\Debug\netstandard2.0\UserApi.Service.csprojAssemblyReference.cache
+C:\Users\Sahil\source\repos\UserApi\UserApi.Service\obj\Debug\netstandard2.0\UserApi.Service.AssemblyInfoInputs.cache
+C:\Users\Sahil\source\repos\UserApi\UserApi.Service\obj\Debug\netstandard2.0\UserApi.Service.AssemblyInfo.cs
+C:\Users\Sahil\source\repos\UserApi\UserApi.Service\bin\Debug\netstandard2.0\UserApi.Service.pdb
+C:\Users\Sahil\source\repos\UserApi\UserApi.Service\obj\Debug\netstandard2.0\UserApi.Service.dll
+C:\Users\Sahil\source\repos\UserApi\UserApi.Service\obj\Debug\netstandard2.0\UserApi.Service.pdb
+C:\Users\Sahil\source\repos\UserApi\UserApi.Service\bin\Debug\netstandard2.0\UserApi.Core.dll
+C:\Users\Sahil\source\repos\UserApi\UserApi.Service\bin\Debug\netstandard2.0\UserApi.Core.pdb
+C:\Users\Sahil\source\repos\UserApi\UserApi.Service\obj\Debug\netstandard2.0\UserApi.Service.csproj.CopyComplete
+C:\Users\Sahil\source\repos\UserApi\UserApi.Service\obj\Debug\netstandard2.0\UserApi.Service.csproj.CoreCompileInputs.cache
+F:\C Sharp Project\SahilThakur\UserApi\UserApi.Service\bin\Debug\netstandard2.0\UserApi.Service.deps.json
+F:\C Sharp Project\SahilThakur\UserApi\UserApi.Service\bin\Debug\netstandard2.0\UserApi.Service.dll
+F:\C Sharp Project\SahilThakur\UserApi\UserApi.Service\bin\Debug\netstandard2.0\UserApi.Service.pdb
+F:\C Sharp Project\SahilThakur\UserApi\UserApi.Service\bin\Debug\netstandard2.0\UserApi.Core.dll
+F:\C Sharp Project\SahilThakur\UserApi\UserApi.Service\bin\Debug\netstandard2.0\UserApi.Core.pdb
+F:\C Sharp Project\SahilThakur\UserApi\UserApi.Service\obj\Debug\netstandard2.0\UserApi.Service.csprojAssemblyReference.cache
+F:\C Sharp Project\SahilThakur\UserApi\UserApi.Service\obj\Debug\netstandard2.0\UserApi.Service.AssemblyInfoInputs.cache
+F:\C Sharp Project\SahilThakur\UserApi\UserApi.Service\obj\Debug\netstandard2.0\UserApi.Service.AssemblyInfo.cs
+F:\C Sharp Project\SahilThakur\UserApi\UserApi.Service\obj\Debug\netstandard2.0\UserApi.Service.csproj.CoreCompileInputs.cache
+F:\C Sharp Project\SahilThakur\UserApi\UserApi.Service\obj\Debug\netstandard2.0\UserApi.Service.csproj.CopyComplete
+F:\C Sharp Project\SahilThakur\UserApi\UserApi.Service\obj\Debug\netstandard2.0\UserApi.Service.dll
+F:\C Sharp Project\SahilThakur\UserApi\UserApi.Service\obj\Debug\netstandard2.0\UserApi.Service.pdb
